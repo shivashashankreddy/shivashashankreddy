@@ -13,8 +13,6 @@ Senior GenAI Engineer with 10+ years of software engineering experience across A
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:shiva.kcs280@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/shivashashankreddy)
 
-**Phone:** +1 717 535 3184
-
 </div>
 
 ---
@@ -172,26 +170,3 @@ Senior GenAI Engineer with 10+ years of software engineering experience across A
 |---|---|
 | [Healthcare Policy Intelligence Copilot](https://github.com/shivashashankreddy/healthcare-policy-intelligence-copilot) | Enterprise-style Healthcare Claims & Policy RAG Copilot with FastAPI, LangChain, vector search, role-aware prompts, hallucination guardrails, audit logging, RAG evaluation, Docker, tests, and CI/CD. |
 | [Portfolio Website](https://shivashashankreddy.github.io) | Professional portfolio for Shiva Shashank Chevella. |
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivashashankreddy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashashankreddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## Contact
-
-| Channel | Details |
-|---|---|
-| Email | [shiva.kcs280@gmail.com](mailto:shiva.kcs280@gmail.com) |
-| Phone | +1 717 535 3184 |
-| LinkedIn | [linkedin.com/in/shivashashank](https://www.linkedin.com/in/shivashashank/) |
-| Portfolio | [shivashashankreddy.github.io](https://shivashashankreddy.github.io) |
-| GitHub | [github.com/shivashashankreddy](https://github.com/shivashashankreddy) |
