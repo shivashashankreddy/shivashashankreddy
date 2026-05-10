@@ -123,43 +123,43 @@ Senior GenAI Engineer with 10+ years of software engineering experience across A
 
 ---
 
-## Featured Enterprise Work
+## Enterprise AI Workstreams
 
 <table>
   <tr>
     <td width="50%">
-      <h3>HCA Healthcare</h3>
-      <strong>Senior GenAI Engineer</strong>
+      <h3>Healthcare Enterprise</h3>
+      <strong>Clinical Decision Copilot & GenAI Platform</strong>
       <br><br>
-      Clinical Decision Copilot and enterprise GenAI platform using Azure OpenAI, LangChain, LangGraph, Advanced RAG, FastAPI, React, AKS, Azure DevOps, RAGAS, Evidently AI, MLflow, Azure Monitor, and Application Insights.
+      Built a clinical decision copilot and enterprise GenAI platform supporting guideline search, claims assistance, documentation workflows, role-aware agents, Advanced RAG, LLMOps, audit logging, and secure healthcare AI delivery using Azure OpenAI, LangChain, LangGraph, FastAPI, React, AKS, Azure DevOps, RAGAS, Evidently AI, MLflow, Azure Monitor, and Application Insights.
     </td>
     <td width="50%">
-      <h3>Wells Fargo</h3>
-      <strong>Applied AI/ML Engineer</strong>
+      <h3>Financial Services Enterprise</h3>
+      <strong>Fraud Risk Triage & Analyst Assist Platform</strong>
       <br><br>
-      AI-Driven Fraud Risk Triage Platform using Python, AWS, SageMaker, FastAPI, semantic retrieval, embeddings, pgvector, Docker, EKS, MLflow, CloudWatch, Prometheus, Grafana, and TruLens.
+      Built an AI-driven fraud risk triage and analyst assist platform using Python, AWS, SageMaker, FastAPI, semantic retrieval, embeddings, pgvector, Docker, EKS, MLflow, CloudWatch, Prometheus, Grafana, and TruLens.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>State of Utah</h3>
-      <strong>Senior Python Engineer, ML & Applied AI Systems</strong>
+      <h3>Public Sector Agency</h3>
+      <strong>Data Intelligence & Predictive Analytics Platform</strong>
       <br><br>
-      State Data Intelligence and Predictive Analytics Platform using Python, FastAPI, Azure, Scikit-learn, TensorFlow, Keras, FAISS, Azure ML, AKS, Docker, Azure DevOps, Terraform, and MLflow.
+      Built a data intelligence and predictive analytics platform for public sector workflows using Python, FastAPI, Azure, Scikit-learn, TensorFlow, Keras, FAISS, Azure ML, AKS, Docker, Azure DevOps, Terraform, and MLflow.
     </td>
     <td width="50%">
-      <h3>UPS</h3>
-      <strong>Data Scientist</strong>
+      <h3>Logistics Enterprise</h3>
+      <strong>Demand Forecasting & Capacity Planning Platform</strong>
       <br><br>
-      Demand Forecasting and Logistics Capacity Planning Platform using Python, GCP, BigQuery, Cloud Dataflow, Cloud Composer, Airflow, AI Platform, Prophet, XGBoost, and Scikit-learn.
+      Built a demand forecasting and logistics capacity planning platform using Python, GCP, BigQuery, Cloud Dataflow, Cloud Composer, Airflow, AI Platform, Prophet, XGBoost, and Scikit-learn.
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <h3>Apollo Hospitals</h3>
-      <strong>Data Engineer</strong>
+      <h3>Healthcare Data Platform</h3>
+      <strong>Clinical Data Lake & Analytics Platform</strong>
       <br><br>
-      Enterprise Clinical Data Lake and Healthcare Analytics Platform using Python, SQL, PySpark, AWS, S3, EMR, PostgreSQL, Redshift, Airflow, EC2, and CloudWatch.
+      Built an enterprise clinical data lake and healthcare analytics platform using Python, SQL, PySpark, AWS, S3, EMR, PostgreSQL, Redshift, Airflow, EC2, and CloudWatch.
     </td>
   </tr>
 </table>
@@ -175,16 +175,12 @@ Senior GenAI Engineer with 10+ years of software engineering experience across A
 
 ---
 
-## GitHub Activity
+## GitHub Snapshot
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivashashankreddy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashashankreddy&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=shivashashankreddy&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
