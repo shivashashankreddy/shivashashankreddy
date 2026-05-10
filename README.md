@@ -166,7 +166,25 @@ Senior GenAI Engineer with 10+ years of software engineering experience across A
 
 ## Featured GitHub Projects
 
-| Project | Description |
-|---|---|
-| [Healthcare Policy Intelligence Copilot](https://github.com/shivashashankreddy/healthcare-policy-intelligence-copilot) | Enterprise-style Healthcare Claims & Policy RAG Copilot with FastAPI, LangChain, vector search, role-aware prompts, hallucination guardrails, audit logging, RAG evaluation, Docker, tests, and CI/CD. |
-| [Portfolio Website](https://shivashashankreddy.github.io) | Professional portfolio for Shiva Shashank Chevella. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/shivashashankreddy/healthcare-policy-intelligence-copilot">Healthcare Policy Intelligence Copilot</a></h3>
+      Enterprise-style Healthcare Claims & Policy RAG Copilot using FastAPI, LangChain, vector search, role-aware prompts, hallucination guardrails, source citations, audit logging, RAG evaluation, Docker, Pytest, and GitHub Actions.
+      <br><br>
+      <strong>Tags:</strong> FastAPI, LangChain, RAG, Vector Search, Guardrails, Audit Logging, Pytest, Docker, GitHub Actions
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/shivashashankreddy/agentic-ai-workflow-orchestrator">Agentic AI Workflow Orchestrator</a></h3>
+      Enterprise-style Agentic AI workflow orchestrator using FastAPI, LangGraph, LangChain, tool calling, planner-executor workflows, human-in-the-loop review, risk flags, audit logging, evaluation, Docker, Pytest, and GitHub Actions.
+      <br><br>
+      <strong>Tags:</strong> FastAPI, LangGraph, LangChain, Agentic AI, Tool Calling, Human Review, Guardrails, Audit Logging, Pytest, Docker
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://shivashashankreddy.github.io">Portfolio Website</a></h3>
+      Professional portfolio for Shiva Shashank Chevella.
+    </td>
+  </tr>
+</table>
